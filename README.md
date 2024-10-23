@@ -13,9 +13,29 @@ a. Effective for Administration Purpose
 b. Cost effective
 c. Better Service
 ### UML DIAGRAMS:
+# USE CASE:
+![image](https://github.com/user-attachments/assets/6031f4f3-94be-465d-b6d8-a379a8e82fd6)
 
 
+# CLASS DIAGRAM:
+![image](https://github.com/user-attachments/assets/0c7e0507-9743-4b1d-9760-a0fafeb46eaf)
 
+
+# PACKAGE DIAGRAM :
+![image](https://github.com/user-attachments/assets/58eb2054-57a1-4cd5-a070-97dd1f982011)
+
+
+# SEQUENCE DIAGRAM :
+![image](https://github.com/user-attachments/assets/07e1e191-54a9-48c3-998a-b383d8e4dafa)
+
+
+# COMMUNICATION DIAGRAM :
+![image](https://github.com/user-attachments/assets/18d2f782-f971-44c5-8353-9633f68b710c)
+
+
+# ACTIVITY DIAGRAM :
+
+![image](https://github.com/user-attachments/assets/63b440d6-83b4-4d9d-b454-51f91853e10b)
 
 
 ### RESULT:
